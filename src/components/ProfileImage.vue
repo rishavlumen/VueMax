@@ -8,7 +8,7 @@ export default {
 
   data() {
     return {
-      imageLocation: "images/pfimage.jpg",
+      imageLocation: "./public/images/pfimage.jpg",
     };
   },
 };
