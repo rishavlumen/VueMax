@@ -8,7 +8,7 @@ export default {
 
   data() {
     return {
-      imageLocation: "/VueMax/images/pfimage.jpg",
+      imageLocation: "images/pfimage.jpg",
     };
   },
 };
